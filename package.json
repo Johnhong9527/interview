@@ -1,0 +1,25 @@
+{
+    "name": "blogs",
+    "version": "0.0.1",
+    "description": "",
+    "main": "book.js",
+    "scripts": {
+        "deploy": "git subtree push --prefix=_book origin gh-pages",
+        "push":
+            "gitbook build && git add . && git commit -m update && git push origin master && npm run deploy",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "gitbook-plugin-fontsettings": "2.0.0",
+        "gitbook-plugin-highlight": "2.0.2",
+        "gitbook-plugin-livereload": "0.0.1",
+        "gitbook-plugin-lunr": "1.2.0",
+        "gitbook-plugin-search": "2.2.1",
+        "gitbook-plugin-search-pro": "^2.0.2",
+        "gitbook-plugin-sharing": "1.0.2",
+        "gitbook-plugin-theme-default": "1.0.7"
+    },
+    "devDependencies": {}
+}
