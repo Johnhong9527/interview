@@ -5,7 +5,8 @@
 <url> <loc>https://blog.honghaitao.net/Basic/Ajax/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://blog.honghaitao.net/Basic/Ajax/get|post的区别.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://blog.honghaitao.net/Basic/Ajax/get请求传参长度的误区.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
-<url> <loc>https://blog.honghaitao.net/JavaScript/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://blog.honghaitao.net/Advanced/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://blog.honghaitao.net/HTTP/http post传送文件详解.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://blog.honghaitao.net/other/faq.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>https://blog.honghaitao.net/other/examples.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
