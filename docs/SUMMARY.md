@@ -11,7 +11,10 @@
     * [get请求传参长度的误区](./Basic/Ajax/get请求传参长度的误区.md)
 
 ## JavaScript(进阶篇)
-* [前言](./JavaScript/README.md)
+* [前言](./Advanced/README.md)
+
+## HTTP
+* [http post传送文件详解](./HTTP/http post传送文件详解.md)
 
 -----
 * [FAQ](other/faq.md)

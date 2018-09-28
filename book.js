@@ -15,13 +15,20 @@ module.exports = {
         "-fontsettings",
         "sitemap",
         "-search",
+        "styles-less",
         "search-pro",
     ],
 
     variables: {
         version: pkg.version,
     },
-
+    "styles": {
+        "website": "./styles/website.less",
+        "ebook": "/styles/ebook.css",
+        "pdf": "/styles/pdf.css",
+        "mobi": "/styles/mobi.css",
+        "epub": "/styles/epub.css"
+    },
     pluginsConfig: {
         sitemap: {
             hostname: "https://blog.honghaitao.net/",
